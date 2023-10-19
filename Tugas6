@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="images/ikon1" href="Images/ikon1.png">
+    <title>Taman Safari</title>
+</head>
+<body>
+    <div class="back">
+        <h1 class="head">Taman Safari Indonesia</h1>
+    </div>
+    
+    <div class="wrapper-content">
+    <h3 class="head">Profil Pendiri Taman Safari Indonesia</h3>
+    <p>Jansen Manansang adalah pemilik sekaligus Direktur Utama PT. Taman Safari Indonesia Beliau lahir pada tahun 1942 dan
+        menamatkan kuliah dengan gelar Master Biologi. Ayahnya, Hadi Manansang, adalah Kepala Sirkus Oriental Indonesia di 
+        era Tahun 1979. Masa kecil Jansen dihabiskan dengan berlatih sirkus. Sebelum menjadi sebuah kebun binatang yang besar
+        dan terkenal.  
+    </p>
+    <br>
+    
+    <h3 class="head">Sejarah Taman Safari Indonesia</h3>
+    <p>Awalnya, pada tahun 1979, didirikanlah sebuah penginapan sederhana bernama SARI ASIH yang sekarang kita kenal dengan
+        nama Royal Safari Garden. Penginapan ini dibangun di atas tanah seluas 2,5 ha. Yang menarik, penginapan Sari Asih
+        ini dilengkapi dengan taman satwa kecil untuk menarik para tamu penginapan. Seiring berjalannya waktu, penginapan
+        Sari Asih berubah nama pada tahun 1987 menjadi Royal Safari Garden. Sebelum berbah nama, menjadi Taman Safari
+        indonesia pada tahun 1980. Taman Safari Indonesia terletak di Desa Cibeureum Kecamatan Cisarua, Kabupaten Bogor,
+        Jawa Barat atau yang lebih dikenal dengan kawasan Puncak.
+    </p>
+    <br>
+    
+        <h3 class="head">Koleksi Taman Safari Indonesia</h3>
+        <p >Taman Safari memiliki sekitar 2.500 koleksi satwa dari hampir seluruh penjuru dunia termasuk satwa langka,
+            seperti harimau benggala, jerapah, singa, orang utan, gajah, anoa, komodo dan lain sebagainya. Taman Safari
+            juga memiliki area khusus untuk beberapa jenis binatang, seperti:
+        </p>
+        <br>
+
+        <img src="Images/bird.jpg" alt="bird">
+        <p class="pback"> Bird Aviary </p>
+        <br>
+
+        <img src="Images/zoo.JPG" alt="zoo">
+        <p class="pback"> Baby Zoo </p>
+        <br>
+
+        <img src="Images/komodo.JPEG" alt="komodo">
+        <p class="pback"> Komodo Dragon Island </p>
+        <br>
+
+        <img src="Images/bahtera.JPEG" alt="bahtera">
+        <p class="pback"> Bahtera Penguin </p>
+        <br>
+
+        <img src="Images/istana.JPG" alt="istana">
+        <p class="pback"> Istana Panda </p>
+        <br>
+    </div>
+
+   <h3 class="head">Fasilitas Rekreasi dan Atraksi</h3> 
+   <br>
+   <ul>
+    <li>Bus safari</li>
+    <li>Safari siang</li>
+    <li>Safari malam</li>
+    <li>Safarari trek dan outbound</li>
+    <li>Taman burung</li>
+    <li>Gajah tunggang</li>
+    <li>Pentas sirkus</li>
+   </ul>
+   <br>
+   
+   <div class="wrapper-list">
+   <h3 class="head2">Informasi Tentang Taman Safari Indonesia</h3>
+   <h3>Jam Operasional</h3>
+   
+   <table border="1">
+    <tr>
+        <td>Senin-JUmat</td>
+        <td>09:00-16.00 WIB</td>
+    </tr>
+    <tr>
+        <td>Sabtu dan Minggu</td>
+        <td>08.30-16.30 WIB</td>
+    </tr>
+   </table>
+
+    <h3>Alamat</h3>
+    <p class="par">Desa Cibeureum, Kecamatan Cisarua, Kabupaten Bogor.</p>
+    <br>
+    
+    <h3>Telephone</h3>
+    <p class="par"> 0251-8250000</p>
+
+
+    <h3>Harga Tiket Taman Safari</h3>
+    <p class="par">Kami sangat menyarankan Anda untuk <a href="https://tamansafari.com/" target="_blank"><b>memesan tiket</b></a> sesuai dengan hari dan jam yang telah direncanakan.</p>
+    <br> <br>
+    
+    </div>
+    <div class="par">
+        <h3>Viska Mia Sari</h3>
+        <br>
+        <h4><i>11210251000101</i></h4>
+        <h4><i>5A Ilmu Perpustakaan</i></h4>
+    </div>
+</body>
+</html>
